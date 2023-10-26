@@ -1,2 +1,3 @@
-# coreapp
+# CoreApp
+
 A Minimal PHP Framework
