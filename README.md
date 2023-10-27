@@ -1,5 +1,19 @@
 # CoreApp
 
+```
+Just download CoreApp.php from GitHub and start building simple applications within hours.
+
+-----
+Directory Structure
+-----
+
+public /
+|- assets /
+|- templates /
+|- CoreApp.php
+|- index.php
+```
+
 ## URL Rewriting
 
 ```nginx
